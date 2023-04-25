@@ -1,6 +1,6 @@
 // calculating area of rectangle
-var recLenght
-var recWidth
+var recLenght = 10
+var recWidth = 5
 
 // formula
 var recArea = recLenght * recWidth

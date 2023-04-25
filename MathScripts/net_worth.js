@@ -1,6 +1,6 @@
 // calculating net worth
-var assets
-var debts 
+var assets = 30000
+var debts  = 10000
 
 // formula
 var net_worth = assets - debts

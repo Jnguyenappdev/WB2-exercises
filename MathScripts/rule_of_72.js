@@ -1,11 +1,11 @@
 // saving account worth X to double in value given an interest rate of IR
- var interstRate
- var ruleof = "72"
- var money
+ var interstRate = 3
+ var ruleof = 72
+ var money = 10
 
  // formula
  var years = ruleof / interstRate
- var moneyYears = interstRate * years + money
+ var moneyYears = money * 2
 
  console.log(
     "At a " + interstRate + " interest rate,  your savings account will be worth " 

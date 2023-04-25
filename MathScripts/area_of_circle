@@ -1,9 +1,9 @@
 // calculating area of circle
-var pie = "3.1495"
-var circleRadius 
+var pie = 3.1495
+var circleRadius = 10
 
 // formula
-var areaCircle = pie * (circleRadius^2)
+var areaCircle = pie * circleRadius ^ 2
 
 console.log(
     "The area of a circle with radius " + circleRadius + " is " + areaCircle
