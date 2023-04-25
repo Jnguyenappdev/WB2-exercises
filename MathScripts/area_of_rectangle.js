@@ -1,3 +1,4 @@
+// calculating area of rectangle
 var recLenght
 var recWidth
 

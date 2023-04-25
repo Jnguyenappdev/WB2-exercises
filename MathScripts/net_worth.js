@@ -1,4 +1,4 @@
-
+// calculating net worth
 var assets
 var debts 
 
