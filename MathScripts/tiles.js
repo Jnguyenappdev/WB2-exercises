@@ -2,7 +2,7 @@
 //12 1 foot x 1 tiles per box how many boxes are you going to need
 
 var roomLenght = 10
-var roomWidth = 10
+var roomWidth = 15
 var boxTiles = 12
 var precentExtra = 10
 

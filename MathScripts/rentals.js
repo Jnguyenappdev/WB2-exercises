@@ -10,7 +10,7 @@
  var seats = 15
 
  var numVans = people / seats
- var totalCost =  numVans * costVan
+ var totalCost =  Math.ceil(numVans) * costVan
  var splitCost = totalCost / people
 
  console.log(
